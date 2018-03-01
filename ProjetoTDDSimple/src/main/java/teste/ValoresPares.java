@@ -3,6 +3,9 @@ package teste;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import modelo.NumeroPar;
+
 import java.util.ArrayList;
 import java.util.List;
 
